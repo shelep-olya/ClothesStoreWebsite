@@ -74,3 +74,8 @@
         }
     }
 }
+
+.products-btn{
+    @include flexPosition;
+}
+
